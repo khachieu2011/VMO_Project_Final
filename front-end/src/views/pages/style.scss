@@ -1,0 +1,12 @@
+main{
+    min-height: 45rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .show {
+        display: none;
+    }
+    main {
+        margin-top: 150px;
+    }
+  }

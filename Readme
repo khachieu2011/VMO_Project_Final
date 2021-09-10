@@ -1,0 +1,2 @@
+play back-end : cd back-end => npm start
+play front-end : cd front-end => yarn start

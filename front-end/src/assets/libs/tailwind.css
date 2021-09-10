@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .bg-color-mine{
+        background-color: rgb(171, 77, 58);
+    }
+    .under-line{
+        text-decoration: none !important;
+    }
+}
